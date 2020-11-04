@@ -1,0 +1,16 @@
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Ids4Client.exe
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.csprojAssemblyReference.cache
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.AssemblyInfoInputs.cache
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.AssemblyInfo.cs
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Ids4Client.deps.json
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Ids4Client.runtimeconfig.json
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Ids4Client.runtimeconfig.dev.json
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Ids4Client.dll
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Ids4Client.pdb
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.csproj.CoreCompileInputs.cache
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.csproj.CopyComplete
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.dll
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.pdb
+C:\Users\Vleun\Desktop\Ids4Client\Ids4Client\obj\Debug\netcoreapp3.1\Ids4Client.genruntimeconfig.cache

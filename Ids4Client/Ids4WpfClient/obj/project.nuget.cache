@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjvTNVSL0S9tkjsKHE6sjnC5x/fjnT4fx6CESloyDTTPR6c6Y1OFXfCdHvT/CJxrlqOoPXwXKJxEBI7uJBQ5Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vleun\\Desktop\\Ids4Client\\Ids4WpfClient\\Ids4WpfClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vleun\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Vleun\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
